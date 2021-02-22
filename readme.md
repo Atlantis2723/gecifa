@@ -17,7 +17,7 @@
 ## About The Project
 
 <p align="center">
-<img src="https://github.com/Atlantis2723/gecifa/blob/master/src/resources/demoFiles/inicio.png?raw=true" width="500">
+<img src="https://github.com/Atlantis2723/gecifa/blob/master/src/resources/demoFiles/inicio.png?raw=true" width="800">
 </p>
 Desktop app for a small financial advisory, which consists of a desktop app for managing clients recurring invoices and for automating repetitive tasks.
 
@@ -56,7 +56,11 @@ The UX is built using **Java Swing**.
 
 5. Go to [`CONFIGURACIÓN`](https://github.com/Atlantis2723/gecifa/blob/master/src/resources/demoFiles/jacob-1.15-M3-x64.dll) and set your payment options as well as invoice numbers.
 
-6. You are all set!
+6. Go to `MODELOS` and paste the downloaded [excel blueprints](https://github.com/Atlantis2723/gecifa/tree/master/modelos)
+
+7. Modify these models with your data and signature
+
+8. You are all set!
 
 
 
