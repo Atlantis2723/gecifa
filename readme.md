@@ -48,7 +48,7 @@ The UX is built using **Java Swing**.
 
 0. You may need to put [this dll](https://github.com/Atlantis2723/gecifa/blob/master/src/resources/demoFiles/facturas.png?raw=true) in your `java/bin` folder
 
-2. Download and click on the executable. Local directory should be created on `AppData/Local`
+2. Download and click on the executable. Local directory `GECIFA` should be created on `AppData/Local`
 
 3. Enter the `MODELOS` section, which will open a file explorer instance for you to place the .xlsx files there (see Roadmap)   
 

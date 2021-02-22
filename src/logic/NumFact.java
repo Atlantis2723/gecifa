@@ -10,7 +10,7 @@ import com.google.gson.JsonParser;
 
 public class NumFact {
 
-	private static final String PATH = System.getProperty("user.home") + "/AppData/Local/ALSEFIN/numFact.json";
+	private static final String PATH = System.getProperty("user.home") + "/AppData/Local/GECIFA/numFact.json";
 
 	public static String peek(String tipo) throws IOException {
 		crearArchivo();
